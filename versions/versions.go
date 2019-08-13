@@ -3,13 +3,13 @@ package main
 import (
 	"log"
 
-	"github.com/amarburg/goav/avcodec"
-	"github.com/amarburg/goav/avdevice"
-	"github.com/amarburg/goav/avfilter"
-	"github.com/amarburg/goav/avformat"
-	"github.com/amarburg/goav/avutil"
-	"github.com/amarburg/goav/swresample"
-	"github.com/amarburg/goav/swscale"
+	"github.com/trafficstars/goav/avcodec"
+	"github.com/trafficstars/goav/avdevice"
+	"github.com/trafficstars/goav/avfilter"
+	"github.com/trafficstars/goav/avformat"
+	"github.com/trafficstars/goav/avutil"
+	"github.com/trafficstars/goav/swresample"
+	"github.com/trafficstars/goav/swscale"
 )
 
 func main() {
